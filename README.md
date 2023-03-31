@@ -1,3 +1,3 @@
-# Java Application to Visualize Plant Phenotyping Datawarehouse
+# Java Application for Plant Phenotyping Datawarehouse
 
 
